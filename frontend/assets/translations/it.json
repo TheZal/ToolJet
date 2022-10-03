@@ -339,19 +339,19 @@
     },
     "homePage":{
         "appCard":{
-            "changeIcon":"Change Icon",
-            "addToFolder":"Add to folder",
-            "move":"Move",
-            "to":"to",
-            "selectFolder":"Select folder",
-            "deleteApp":"Delete app",
-            "exportApp":"Export app",
-            "cloneApp":"Clone app",
-            "launch":"Launch",
-            "maintenance":"Maintenance",
-            "noDeployedVersion":"App does not have a deployed version",
-            "openInAppViewer":"Open in app viewer",
-            "removeFromFolder":"Remove from folder"
+            "changeIcon":"Cambia icona",
+            "addToFolder":"Aggiungi alla cartella",
+            "move":"Sposta",
+            "to":"Destinazione",
+            "selectFolder":"Seleziona cartella",
+            "deleteApp":"Cancella app",
+            "exportApp":"Esporta app",
+            "cloneApp":"Clona app",
+            "launch":"Esegui",
+            "maintenance":"Manutenzione",
+            "noDeployedVersion":"L'app non ha una versione pubblicata",
+            "openInAppViewer":"Apri in app viewer",
+            "removeFromFolder":"Rimuovi dalla cartella"
         },
         "blankPage":{
             "welcomeToToolJet":"Welcome to ToolJet!",
